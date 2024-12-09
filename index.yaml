@@ -15,7 +15,7 @@ entries:
       repository: https://prometheus-community.github.io/helm-charts
       version: 2.15.0
     - name: prometheus-cloudwatch-exporter
-      repository: https://github.com/prometheus/cloudwatch_exporter
+      repository: https://prometheus-community.github.io/helm-charts
       version: 0.26.0
     - name: prometheus-mysql-exporter
       repository: https://prometheus-community.github.io/helm-charts
